@@ -225,7 +225,7 @@ img {
 }
 
 body {
-  background: url(/assets/img/background-animated.svg) no-repeat center center fixed;
+  background: url(/assets/img/background-animated.svg) no-repeat center center fixed #1b1f24;
   background-size: cover;
   min-height: 100%;
   font-family: 'Rubik', sans-serif;
